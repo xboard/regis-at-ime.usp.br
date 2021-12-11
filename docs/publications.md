@@ -12,7 +12,7 @@ CGI com Perl: Conceitos, programação e aplicações.<br/>
 ISBN: 8571948178    Editora Erica, 2001.
 
 ## Conferences
-F. Arruda, A. Goldman. Eliminaição Paralela de Termos Dominantes no Problema da Mochila<br/>
+F. Arruda, A. Goldman. Eliminação Paralela de Termos Dominantes no Problema da Mochila<br/>
     [Workshop de Sistemas Computacionais de Alto Desempenho, 2002, Vitória](http://www.cpad.pucrs.br/wscad2002/){target=_blank}.<br/>
     [[pdf](https://www.ime.usp.br/~regis/Publications/wscad2002.pdf){target=_blank}] [[ps](https://www.ime.usp.br/~regis/Publications/wscad2002.ps){target=_blnk}]
 
