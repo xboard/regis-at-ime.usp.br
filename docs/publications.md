@@ -6,7 +6,8 @@ hide:
 
 ## Books
 
-[CGI com Perl: Conceitos, programação e aplicações](http://www.editoraerica.com.br/buscafinal.asp?cod=8178){target=_blank}.<br/>ISBN: 8571948178    Editora Erica, 2001.
+CGI com Perl: Conceitos, programação e aplicações.<br/>
+ISBN: 8571948178    Editora Erica, 2001.
 
 ## Conferences
 F. Arruda, A. Goldman. Eliminaição Paralela de Termos Dominantes no Problema da Mochila<br/>
