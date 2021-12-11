@@ -1,5 +1,7 @@
 ---
-hide:
+title: Publications
+description: Publications - Flavio Regis de Arruda
+hide: 
     - toc
 ---
 # Publications

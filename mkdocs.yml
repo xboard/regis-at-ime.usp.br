@@ -1,6 +1,9 @@
 site_name: Flavio Regis de Arruda
+site_url: https://www.ime.usp.br/~regis/
+copyright: Copyright &copy; 1996 - 2021 Flavio Regis de Arruda
 markdown_extensions:
   - attr_list
+  - meta
 plugins:
   - search
 theme:
@@ -18,7 +21,12 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode
 extra:
+  generator: false
   analytics:
     provider: google
     property: G-6DCR8Z4HKZ
-
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/xboard_
+    - icon: fontawesome/brands/github
+      link: https://github.com/xboard

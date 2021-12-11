@@ -1,4 +1,6 @@
 ---
+title: About me
+description: About me - Flavio Regis de Arruda
 hide: 
     - toc
 ---
