@@ -4,6 +4,10 @@ description: About me - Flavio Regis de Arruda
 hide: 
     - toc
 ---
+
+![Eu](images/EU_2022.png){ align=right width="200" }
+
+
 # About me
 
 ## Flavio Regis de Arruda
