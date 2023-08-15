@@ -5,8 +5,9 @@ hide:
     - toc
 ---
 
-![Eu](images/EU_2022.png){ align=right width="200" }
-
+<p align='right'>
+  <img src='images/EU_2022.png' align='right' width='25%'/>
+</p>
 
 # About me
 
